@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "328103088957",
+    "firebase_url": "https://constructionmanagment-5c03a.firebaseio.com",
+    "project_id": "constructionmanagment-5c03a",
+    "storage_bucket": "constructionmanagment-5c03a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328103088957:android:fe560ea19b26339d",
+        "android_client_info": {
+          "package_name": "com.example.construction_managment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328103088957-a8vm02idkcbia1gcmf583tq6o3li50om.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.construction_managment",
+            "certificate_hash": "a685f745b69bce9d03f7a759113a670531c37d90"
+          }
+        },
+        {
+          "client_id": "328103088957-0j2m9r5b77uqlj4ug3a1tr9ogfi9dtgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVKUMewkcUy0Am9y93CF0GzFzV2LZdjQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328103088957-0j2m9r5b77uqlj4ug3a1tr9ogfi9dtgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
